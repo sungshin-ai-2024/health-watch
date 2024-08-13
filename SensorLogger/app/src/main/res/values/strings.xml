@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SensorLogger</string>
+
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+
+    <string name="PermissionDeniedPermanently">Permissions denied. Grant permissions in watch settings and start application again.</string>
+    <string name="PermissionDeniedRationale">Permission is required to make accelerometer Measurement.</string>
+    <string name="NoHealthPlatformError">Health Platform version is outdated or not installed.</string>
+    <string name="ConnectedToHS">Connected to Health Services.</string>
+    <string name="ConnectionError">Could not connect to Health Services. Check error log.</string>
+    <string name="NoPermission">Permissions Check Failed.</string>
+    <string name="SDKPolicyError">SDK Policy denied.</string>
+</resources>
