@@ -1,8 +1,15 @@
 <resources>
-    <string name="app_name">SensorLogger</string>
+    <string name="app_name">SensorApp</string>
 
     <string name="start">START</string>
     <string name="stop">STOP</string>
+
+    <!-- webSocket state -->
+    <string name="WebSocketStateOpen">Open</string>
+    <string name="WebSocketStateClosed">Closed</string>
+    <string name="WebSocketStateFailure">Failure</string>
+
+    <string name="InitCount">0</string>
 
     <string name="PermissionDeniedPermanently">Permissions denied. Grant permissions in watch settings and start application again.</string>
     <string name="PermissionDeniedRationale">Permission is required to make accelerometer Measurement.</string>
