@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.sensorlogger"
+    namespace = "com.example.sensorapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.sensorlogger"
+        applicationId = "com.example.sensorapp"
         minSdk = 30
         targetSdk = 34
         versionCode = 1
